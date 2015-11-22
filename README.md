@@ -6,7 +6,7 @@
 
 In this session we will use Application Programming Interfaces (APIs). APIs allow applications interact with other applications over a network.
 
-Not only is this a look at using APIs but it is also a recap on using classes and functions.
+Not only is this a look at using APIs but it is also a recap on using classes and methods.
 
 To start, join the chat on Skinder - http://skinder.herokuapp.com/
 
